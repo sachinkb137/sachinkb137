@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sachinkb137
 - 👀 I’m interested in coding,learn new skills..
 - 🌱 I’m currently learning DSA with c++ and web development
-- 📫 How to reach me ...@insta kbsachin137, @linkedin sachin k b
 
 
 <!---
