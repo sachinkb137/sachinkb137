@@ -17,7 +17,7 @@ I love solving real-world problems with code and building impactful projects.
 
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sachin-k-b-672744256/))  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/sachin-k-b-672744256/])  
 - ✉️ Reach me: **sachinkb.1si22cs150@gmail.com**
 
 ---
